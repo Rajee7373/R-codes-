@@ -1,0 +1,330 @@
+Climate change
+From Wikipedia, the free encyclopedia
+  (Redirected from Global warming)
+Jump to navigationJump to search
+For a discussion of climate trends throughout Earth's history, see Climate variability and change. For other uses, see Climate change (disambiguation).
+"Global warming" redirects here. For other uses, see Global warming (disambiguation).
+
+Average global temperatures from 2010 to 2019 compared to a baseline average from 1951 to 1978. Source: NASA.
+The rising average temperature of Earth's climate system, called global warming, is driving changes in rainfall patterns, extreme weather, arrivals of seasons, and more. Collectively, global warming and its effects are known as climate change. While there have been prehistoric periods of climatic change, observed changes since the mid-20th century have been unprecedented in rate and scale.[1]
+
+
+Observed temperature from NASA[2] vs the 1850–1900 average as a pre-industrial baseline. The main driver for increased global temperatures in the industrial era is human activity, with natural forces adding variability.[3]
+The Intergovernmental Panel on Climate Change (IPCC) concluded that "human influence on climate has been the dominant cause of observed warming since the mid-20th century". These findings have been recognized by the national science academies of major nations and are not disputed by any scientific body of national or international standing.[4] The largest human influence has been the emission of greenhouse gases, with over 90% of the impact from carbon dioxide and methane.[5] Fossil fuel burning is the main source of these gases; agricultural emissions and deforestation are also important. Temperature rise is enhanced by self-reinforcing climate feedbacks, such as loss of snow cover, increased water vapour, and melting permafrost.
+
+Land surfaces are heating faster than the ocean surfaces, leading to heat waves, wildfires, and the expansion of deserts.[6] Increasing atmospheric energy and rates of evaporation are causing more intense storms and weather extremes, damaging infrastructure and agriculture.[7] Surface temperature increases are greatest in the Arctic and have contributed to the retreat of glaciers, permafrost, and sea ice. Environmental impacts include the extinction or relocation of many species as their ecosystems change, most immediately in coral reefs, mountains, and the Arctic. Surface temperatures would stabilize and decline a little if emissions were cut off, but other impacts will continue for centuries, including rising sea levels from melting ice sheets, rising ocean temperatures, and ocean acidification from elevated levels of carbon dioxide.[8]
+
+Some effects of climate change
+
+Pest propagation. Mild winters allow more pine beetles to survive to kill large swaths of forest.
+
+
+Countries work together on climate change under the umbrella of the United Nations Framework Convention on Climate Change (UNFCCC), of which almost all countries are members. The goal of the convention is to "prevent dangerous anthropogenic interference with the climate system". The IPCC has told policy makers that there is much greater risk to human and natural systems if warming goes above 1.5 °C (2.7 °F) compared to pre-industrial levels.[10] Under the Paris Agreement, nations are making climate pledges to reduce greenhouse gas (GHG) emissions, but those promises — assuming nations follow through — would still allow global warming to reach about 2.8 °C (5.0 °F) by 2100.[11] To limit warming to 1.5 °C (2.7 °F), methane emissions would need to decrease to near-zero levels and carbon dioxide emissions would need to reach net-zero by the year 2050.[12]
+
+Mitigation efforts include the development and deployment of low-carbon energy technologies, policies to reduce fossil fuel emissions, reforestation, forest preservation, as well as the development of potential climate engineering technologies. Societies and governments are also working to adapt to current and future global warming impacts. Adaptations include improved coastline protection, better disaster management, and the development of more resistant crops.
+
+
+
+Observed temperature rise
+Main articles: Temperature record of the last 2,000 years and Instrumental temperature record
+
+Global surface temperature reconstruction over the last millennia using proxy data from tree rings, corals, and ice cores in blue.[13] Observational data is from 1880 to 2019.[2]
+
+NASA data[2] shows that land surface temperatures have increased faster than ocean temperatures.
+Multiple independently-produced instrumental datasets show that the climate system is warming,[14] with the 2009–2018 decade being 0.93 ± 0.07 °C (1.67 ± 0.13 °F) warmer than the pre-industrial baseline (1850–1900).[15] Currently, surface temperatures are rising by about 0.2 °C (0.36 °F) per decade.[16] Since 1950, the number of cold days and nights has decreased, and the number of warm days and nights has increased.[17] Historical patterns of warming and cooling, like the Medieval Climate Anomaly and the Little Ice Age, were not as synchronous as current warming, but may have reached temperatures as high as those of the late-20th century in a limited set of regions.[18] There have been prehistorical episodes of global warming, such as the Paleocene–Eocene Thermal Maximum.[19] However, the observed rise in temperature and CO
+2 concentrations has been so rapid that even abrupt geophysical events that took place in Earth's history do not approach current rates.[20]
+
+Climate proxy records show that natural variations offset the early effects of the Industrial Revolution, so there was little net warming between the 18th century and the mid-19th century,[21] when thermometer records began to provide global coverage.[22] The Intergovernmental Panel on Climate Change (IPCC) has adopted the baseline reference period 1850–1900 as an approximation of pre-industrial global mean surface temperature.[21]
+
+The warming evident in the instrumental temperature record is consistent with a wide range of other types of observations, documented by many independent scientific groups.[23] Although the most common measure of global warming is the increase in the near-surface atmospheric temperature, over 90% of the additional energy in the climate system over the last 50 years has been stored in the ocean, warming it.[24] The remainder of the additional energy has melted ice and warmed the continents and the atmosphere.[25] The ocean heat uptake drives thermal expansion which has contributed to observed sea level rise.[26] Further indicators of climate change include an increase in the frequency and intensity of heavy precipitation, melting of snow and land ice and increased atmospheric humidity.[27] Flora and fauna are also behaving in a manner consistent with warming; for instance, plants are flowering earlier in spring.[28]
+
+Although record-breaking years attract considerable media attention, individual years are less significant than the longer global temperature trend.[29] An example of a shorter episode is the slower rate of surface temperature increase from 1998 to 2012, which was labeled the "global warming hiatus".[30] Throughout this period, ocean heat storage continued to progress steadily upwards, and in subsequent years, surface temperatures have spiked upwards. The slower pace of warming can be attributed to a combination of natural fluctuations, reduced solar activity, and increased reflection of sunlight by particles from volcanic eruptions.[31]
+
+Regional variation
+See also: Climate variability and change § Variability between regions
+Global warming refers to global averages, with the amount of warming varying by region. Since the pre-industrial period, global average land temperatures have increased almost twice as fast as global average surface temperatures.[32] This is because of the larger heat capacity of oceans, and because oceans lose more heat by evaporation.[33] Patterns of warming are independent of the locations of greenhouse gas emissions, because the gases persist long enough to diffuse across the planet; however, localized black carbon deposits on snow and ice do contribute to Arctic warming.[34]
+
+The Northern Hemisphere and North Pole have warmed much faster than the South Pole and Southern Hemisphere. The Northern Hemisphere not only has much more land, but also more snow area and sea ice, because of how the land masses are arranged around the Arctic Ocean. As these surfaces flip from reflecting a lot of light to being dark after the ice has melted, they start absorbing more heat. The Southern Hemisphere already had little sea ice in summer before it started warming.[35] Arctic temperatures have increased and are predicted to continue to increase during this century at over twice the rate of the rest of the world.[36] Melting of glaciers and ice sheets in the Arctic disrupts ocean circulation, including a weakened Gulf Stream, causing increased warming in some areas.[37]
+
+Physical drivers of recent climate change
+
+Radiative forcing of different contributors to climate change in 2011, as reported in the fifth IPCC assessment report.
+Main article: Attribution of recent climate change
+By itself, the climate system experiences various cycles which can last for years (such as the El Niño–Southern Oscillation) to decades or centuries.[38] Other changes are caused by an imbalance of energy at the top of the atmosphere: external forcings. These forcings are "external" to the climate system, but not always external to the Earth.[39] Examples of external forcings include changes in the composition of the atmosphere (e.g. increased concentrations of greenhouse gases), solar luminosity, volcanic eruptions, and variations in the Earth's orbit around the Sun.[40]
+
+Attribution of climate change is the effort to scientifically show which mechanisms are responsible for observed changes in Earth's climate. First, known internal climate variability and natural external forcings need to be ruled out. Therefore, a key approach is to use computer modelling of the climate system to determine unique "fingerprints" for all potential causes. By comparing these fingerprints with observed patterns and evolution of climate change, and the observed history of the forcings, the causes of the observed changes can be determined.[41] For example, solar forcing can be ruled out as major cause because its fingerprint is warming in the entire atmosphere, and only the lower atmosphere has warmed, which is what is expected from greenhouse gases (which trap heat energy radiating from the surface).[42] The causes of current climate change are primarily greenhouse gases, and secondarily land-use changes, and aerosols and soot.[43]
+
+Greenhouse gases
+Main articles: Greenhouse gas, Greenhouse effect, and Carbon dioxide in Earth's atmosphere
+
+CO
+2 concentrations over the last 800,000 years as measured from ice cores (blue/green) and directly (black)
+The Earth absorbs energy from the sun, but the energy does not stay forever. It continually leaves the Earth, by radiating into space. Greenhouse gases slow it down, keeping the energy on Earth longer.[44] This energy, in the form of heat (infrared radiation), gets absorbed and re-emitted by these gases in the atmosphere, thus warming the lower atmosphere and the surface. Before the Industrial Revolution, naturally-occurring amounts of greenhouse gases caused the air near the surface to be about 33 °C (59 °F) warmer than it would have been in their absence.[45] Without the Earth's atmosphere, the Earth's average temperature would be well below the freezing temperature of water.[46] While water vapour (~50%) and clouds (~25%) are the biggest contributors to the greenhouse effect, they increase as a function of temperature and are therefore considered feedbacks. Increased concentrations of gases such as CO
+2 (~20%), ozone and N
+2O, on the other hand, are considered external forcings.[47] Ozone acts as a greenhouse gas in the lowest layer of the atmosphere, the troposphere. Furthermore, ozone is highly reactive and interacts with other greenhouse gases and aerosols.[48]
+
+Human activity since the Industrial Revolution, mainly extracting and burning fossil fuels,[49] has increased the amount of greenhouse gases in the atmosphere. This CO2, methane, tropospheric ozone, CFCs, and nitrous oxide has increased radiative forcing. In 2018, the concentrations of CO2 and methane had increased by about 45% and 160%, respectively, since pre-industrial times.[50] In 2013, CO2 readings taken at the world's primary benchmark site in Mauna Loa surpassed 400 ppm for the first time (normal pre-industrial levels were ~270ppm).[51] These CO2 levels are much higher than they have been at any time during the last 800,000 years, the period for which reliable data have been collected from air trapped in ice cores.[52] Less direct geological evidence indicates that CO2 values have not been this high for millions of years.[53]
+
+
+The Global Carbon Project shows how additions to CO
+2 since 1880 have been caused by different sources ramping up one after another.
+Global anthropogenic greenhouse gas emissions in 2018, excluding those from land use change, were equivalent to 52 billion tonnes of carbon dioxide. Of these emissions, 72% was carbon dioxide from fossil fuel burning and secondarily cement production, 19% was methane, largely from livestock,[54] 6% was nitrous oxide, largely from the decomposition of inorganic and organic fertilizer,[55] and 3% was fluorinated gases.[56] A further 4 billion tonnes of CO
+2 was released as a consequence of land-use change, primarily deforestation, in which stored carbon is released from the disturbance of soil and the rotting or burning of felled trees.[57] From a production standpoint, the primary sources of global GHG emissions are estimated as: electricity and heat (25%), agriculture and forestry (24%), industry (21%), and transportation (14%).[58] Consumption-based estimates of GHG emissions offer another way to understand sources of global warming, and better captures the effects of trade.[59] From a consumption standpoint, the dominant sources of global 2010 emissions were: food (30%), washing, heating, and lighting (26%); personal transport and freight (20%); and building construction (15%).[60]
+
+Despite the contribution of deforestation to GHG emissions, the Earth's land surface, particularly its forests, remain a significant carbon sink for CO
+2. Natural processes, such as carbon fixation in the soil and photosynthesis, more than offset the GHG contributions from deforestation. The land-surface sink is estimated to remove about 11 billion tonnes of CO
+2 annually from the atmosphere, or about 29% of global CO
+2 emissions.[61] The ocean also serves as a significant carbon sink via a two-step process. First, CO
+2 dissolves in the surface water. Afterwards, the ocean's overturning circulation distributes it deep into the ocean's interior, where it accumulates over time as part of the carbon cycle (changing the ocean's chemistry). Over the last two decades, the world's oceans have absorbed between 20 and 30% of emitted CO
+2.[62] The strength of both the land and ocean sinks increases as CO
+2 levels in the atmosphere rise. In this respect they act as suppressing feedbacks in global warming.[63]
+
+Land surface change
+Humans change the Earth's surface mainly to create more agricultural land. Today, agriculture takes up 34% of Earth's land area, while 26% is forests, and 30% is uninhabitable (glaciers, deserts, etc.).[64] The amount of forested land continues to decrease, largely due to conversion to cropland in the tropics.[65] This deforestation is the most significant aspect of land surface change affecting global warming. The main causes of deforestation are: permanent land-use change from forest to agricultural land producing products such as beef and palm oil (27%), logging to produce forestry/forest products (26%), short term shifting cultivation (24%), and wildfires (23%).[66]
+
+In addition to affecting greenhouse gas concentrations, land-use changes affect global warming through a variety of other chemical and physical mechanisms. Changing the type of vegetation in a region affects the local temperature, by changing how much of the sunlight gets reflected back into space (albedo), and how much heat is lost by evaporation. For instance, the change from a dark forest to grassland makes the surface lighter, causing it to reflect more sunlight. Deforestation can also contribute to changing temperatures by affecting the release of aerosols and other chemical compounds that influence clouds, and by changing wind patterns (when the land surface presents different obstructions to wind).[67] Globally, these effects are estimated to have led to a slight cooling, dominated by an increase in surface albedo.[68] But there is significant geographic variation. In the tropics the net effect is to produce a significant warming, while at latitudes closer to the poles a loss of albedo leads to an overall cooling effect.[67]
+
+Aerosols and clouds
+Refer to caption
+Ship tracks can be seen as lines in these clouds over the Atlantic Ocean on the East Coast of the United States as an effect of aerosols.
+Air pollution, in the form of aerosols, not only puts a large burden on human health, but also affects the climate on a large scale.[69] From 1961 to 1990, a gradual reduction in the amount of sunlight reaching the Earth's surface was observed, a phenomenon popularly known as global dimming,[70] typically attributed to aerosols from biofuel and fossil fuel burning.[71] Aerosol removal by precipitation gives tropospheric aerosols an atmospheric lifetime of only about a week, while stratospheric aerosols can remain in the atmosphere for a few years.[72] Globally, aerosols have been declining since 1990, meaning taht they no longer mask global warming as much.[73]
+
+In addition to their direct effects (scattering and absorbing solar radiation), aerosols have indirect effects on the Earth's radiation budget. Sulfate aerosols act as cloud condensation nuclei and thus lead to clouds that have more and smaller cloud droplets. These clouds reflect solar radiation more efficiently than clouds with fewer and larger droplets.[74] This effect also causes droplets to be more uniform in size, which reduces the growth of raindrops and makes clouds more reflective to incoming sunlight.[75] Indirect effects of aerosols are the largest uncertainty in radiative forcing.[76]
+
+While aerosols typically limit global warming by reflecting sunlight, black carbon in soot that falls on snow or ice can contribute to global warming. Not only does this increase the absorption of sunlight, it also increases melting and sea-level rise.[77] Limiting new black carbon deposits in the Arctic could reduce global warming by 0.2 °C by 2050.[78]
+
+Natural forcings
+Further information: Solar activity and climate
+As the Sun is the Earth's primary energy source, changes in incoming sunlight directly affect the climate system.[79] Solar irradiance has been measured directly by satellites,[80] and indirect measurements are available beginning in the early 1600s.[79] There has been no corresponding upward trend in the amount of the Sun's energy reaching the Earth, so it cannot be responsible for the current warming.[81] Physical climate models are also unable to reproduce the rapid warming observed in recent decades when taking into account only variations in solar output and volcanic activity.[82] Another line of evidence is the pattern of temperature changes at different levels in the Earth's atmosphere.[83] Because the greenhouse effect catches heat radiating from the Earth's surface, it produces warming of the lower atmosphere (the troposphere), but cooling of the upper atmosphere (the stratosphere).[84] If solar variations were responsible for the observed warming, warming of both the troposphere and the stratosphere would be expected, but that has not been the case.[42] Explosive volcanic eruptions represent the largest natural forcing over the industrial era. When the eruption is sufficiently strong, with sulfur dioxide reaching the stratosphere, sunlight can be partially blocked for a couple of years, with a temperature signal lasting about twice as long.[85]
+
+Climate change feedback
+Main articles: Climate change feedback and Climate sensitivity
+
+Sea ice reflects 50 to 70 percent of incoming solar radiation while the dark ocean surface only reflects 6 percent, so melting sea ice is a positive feedback.[86]
+The response of the climate system to an initial forcing is modified by feedbacks: increased by self-reinforcing feedbacks and reduced by balancing feedbacks.[87] The primary balancing feedback to global temperature change is radiative cooling to space as infrared radiation in response to rising surface temperature.[88] The main reinforcing feedbacks are the water-vapour feedback, the ice–albedo feedback, and probably the net effect of clouds (described below).[89] Uncertainty over feedbacks is the major reason why different climate models project different magnitudes of warming for a given amount of emissions.[90]
+
+As air gets warmer, it can hold more moisture. After an initial warming due to emissions of greenhouse gases, the atmosphere will hold more water. As water is a potent greenhouse gas, this further heats the climate: the water-vapour feedback.[89] The reduction of snow cover and sea ice in the Arctic reduces the albedo of the Earth's surface.[91] More of the Sun's energy is now absorbed in these regions, contributing to Arctic amplification, which has caused Arctic temperatures to increase at more than twice the rate of the rest of the world;[92] this is the ice-albedo feedback
+
+Cloud cover may change in the future. If cloud cover increases, more sunlight will be reflected back into space, cooling the planet. Simultaneously, the clouds enhance the greenhouse effect, reflecting heat from below back downwards and warming the planet. The opposite is true if cloud cover decreases. It depends on the cloud type and location which process is more important. Overall, the net cloud feedback over the industrial era has probably exacerbated temperature rise.[93]
+
+Roughly half of each year's CO2 emissions have been absorbed by plants on land and in oceans.[94] Carbon dioxide and an extended growing season have stimulated plant growth, making the land carbon cycle a balancing feedback. Climate change also increases droughts and heat waves that inhibit plant growth, which makes it uncertain that this balancing feedback will persist in the future.[95] Soils contain large quantities of carbon and may release some when they heat up.[96] As more CO2 and heat are absorbed by the ocean, it acidifies, its circulation changes and phytoplankton takes up less carbon, decreasing the rate at which the ocean absorbs atmospheric carbon.[97] Climate change can also increase methane emissions from wetlands, marine and freshwater systems, and permafrost.[98]
+
+Future warming and the carbon budget
+
+CMIP5 average of climate model projections for 2081–2100 relative to 1986–2005, under low and high emission scenarios.
+Further information: carbon budget and climate model
+Future warming depends on the strengths of climate feedbacks and on emissions of greenhouse gases.[99] The former are often estimated using climate models. A climate model is a representation of the physical, chemical, and biological processes that affect the climate system.[100] Models also include changes in the Earth's orbit, historical changes in the Sun's activity, and volcanic forcing.[101] Computer models attempt to reproduce and predict the circulation of the oceans, the annual cycle of the seasons, and the flows of carbon between the land surface and the atmosphere.[102] There are more than two dozen scientific institutions that develop major climate models.[103] Models project different future temperature rises for given emissions of greenhouse gases; they also do not fully agree on the strength of different feedbacks on climate sensitivity and the amount of inertia of the system.[104]
+
+The physical realism of models is tested by examining their ability to simulate contemporary or past climates.[105] Past models have underestimated the rate of Arctic shrinkage[106] and underestimated the rate of precipitation increase.[107] Sea level rise since 1990 was underestimated in older models, but now agrees well with observations.[108] The 2017 United States-published National Climate Assessment notes that "climate models may still be underestimating or missing relevant feedback processes".[109]
+
+
+The four RCPs, including CO
+2 and all forcing agents' atmospheric CO
+2-equivalents.
+Four Representative Concentration Pathways (RCPs) are used as input for climate models: "a stringent mitigation scenario (RCP2.6), two intermediate scenarios (RCP4.5 and RCP6.0) and one scenario with very high GHG [greenhouse gas] emissions (RCP8.5)".[110] RCPs only look at concentrations of greenhouse gases, and so does not include the response of the carbon cycle.[111] Climate model projections summarized in the IPCC Fifth Assessment Report indicate that, during the 21st century, the global surface temperature is likely to rise a further 0.3 to 1.7 °C (0.5 to 3.1 °F) in a moderate scenario, or as much as 2.6 to 4.8 °C (4.7 to 8.6 °F) in an extreme scenario, depending on the rate of future greenhouse gas emissions and on climate feedback effects.[112]
+
+A subset of climate models add societal factors to a simple physical climate model. These models simulate how population, economic growth, and energy use affect – and interact with – the physical climate. With this information, these models can produce scenarios of how greenhouse gas emissions may vary in the future. This output is then used as input for physical climate models to generate climate change projections.[113] In some scenarios emissions continue to rise over the century, while others have reduced emissions.[114] Fossil fuel resources are too abundant for shortages to be relied on to limit carbon emissions in the 21st century.[115] Emissions scenarios can be combined with modelling of the carbon cycle to predict how atmospheric concentrations of greenhouse gases might change in the future.[116] According to these combined models, by 2100 the atmospheric concentration of CO2 could be as low as 380 or as high as 1400 ppm, depending on the Shared Socioeconomic Pathway (SSP) and the mitigation scenario.[117]
+
+The remaining carbon emissions budget is determined by modelling the carbon cycle and the climate sensitivity to greenhouse gases.[118] According to the IPCC, global warming can be kept below 1.5 °C with a two-thirds chance if emissions after 2018 do not exceed 420 or 570 GtCO
+2 depending on the choice of the measure of global temperature. This amount corresponds to 10 to 13 years of current emissions. There are high uncertainties about the budget; for instance, it may be 100 GtCO
+2 smaller due to methane release from permafrost and wetlands.[119]
+
+Effects
+Main article: Effects of global warming
+Physical environment
+Main article: Physical impacts of climate change
+
+Historical sea level reconstruction and projections up to 2100 published in January 2017 by the U.S. Global Change Research Program.[120]
+The environmental effects of global warming are broad and far-reaching. They include effects on the oceans, ice, and weather and may occur gradually or rapidly. Evidence for these effects come from studying climate change in the past, modelling and modern observations.[121] Since the 1950s, droughts and heat waves have appeared simultaneously with increasing frequency.[122] Extremely wet or dry events within the monsoon period have increased in India and East Asia.[123] Various mechanisms have been identified that might explain extreme weather in mid-latitudes from the rapidly warming Arctic, such as the jet stream becoming more erratic.[124] The maximum rainfall and wind speed from hurricanes and typhoons is likely increasing.[125]
+
+Global sea level is rising as a consequence of glacial melt, melt of the ice sheets in Greenland and Antarctica, and thermal expansion. Between 1993 and 2017, the rise was on average 3.1 ± 0.3 mm per year, and accelerated.[126] Over the 21st century, the IPCC projects that in a very high emissions scenario the sea level could rise by 61–110 cm.[127] Increased ocean warmth is undermining and threatening to unplug Antarctic glacier outlets risking large melt of the ice sheet,[128] and a separate expert assessment doesn't exclude 2 meters sea level rise in 2100 under high emissions due to such uncertainties in Antarctica and Greenland ice sheets.[129]
+
+Global warming has led to decades of shrinking and thinning of the Arctic sea ice, making it vulnerable to atmospheric anomalies.[130] Projections of declines in Arctic sea ice vary.[131] While ice-free summers are expected to be rare at 1.5 °C (2.7 °F) degrees of warming, they are set to occur once every three to ten years at a warming level of 2.0 °C (3.6 °F),[132] increasing the ice–albedo feedback.[133] Higher atmospheric CO
+2 concentrations have led to an increase in dissolved CO2, which causes ocean acidification.[134] Furthermore, oxygen levels decrease because oxygen is less soluble in warmer water, an effect known as ocean deoxygenation.[135]
+
+Long-term impacts and tipping points
+The long-term effects of global warming include further ice melt, ocean warming, sea level rise, and ocean acidification. On the timescale of centuries to millennia, the magnitude of global warming will be determined primarily by anthropogenic CO2 emissions.[136] This is due to carbon dioxide's very long lifetime in the atmosphere.[136] Carbon dioxide is slowly taking up by the ocean, such that ocean acidification will continue for hundreds to thousands of years.[137] The emissions are estimated to have prolonged the current interglacial period by at least 100,000 years.[138] Because the great mass of glaciers and ice caps depressed the Earth's crust, another long-term effect of ice melt and deglaciation is the gradual rising of landmasses, a process called post-glacial rebound.[139] Sea level rise will continue over many centuries, with an estimated rise of 2.3 metres per degree Celsius (4.2 ft/°F) after 2000 years.[140]
+
+If global warming exceeds 1.5 °C, there is a greater risk of passing through ‘tipping points’, thresholds beyond which certain impacts can no longer be avoided even if temperatures are reduced.[141] Some large-scale changes could occur abruptly, i.e. over a short time period. One potential source of abrupt tipping would be the rapid release of methane and carbon dioxide from permafrost, which would amplify global warming.[142] Another example is the possibility for the Atlantic Meridional Overturning Circulation to collapse,[143] which could trigger cooling in the North Atlantic, Europe, and North America.[144] If multiple temperature and carbon cycle tipping points re-inforce each other, or if there were to be strong threshold behaviour in cloud cover, there could be a global tipping into a hothouse Earth.[145]
+
+Nature and wildlife
+Main article: Climate change and ecosystems
+Recent warming has driven many terrestrial and freshwater species poleward and towards higher altitudes.[146] Higher atmospheric CO2 levels and an extended growing season have resulted in global greening, whereas heatwaves and drought have reduced ecosystem productivity in some regions. The future balance of these opposing effects is unclear.[147] Global warming has contributed to the expansion of drier climatic zones, such as, probably, the expansion of deserts in the subtropics.[148] Without substantial actions to reduce the rate of global warming, land-based ecosystems risk major shifts in their composition and structure.[149] Overall, it is expected that climate change will result in the extinction of many species and reduced diversity of ecosystems.[150]
+
+The ocean has heated more slowly than the land, but plants and animals in the ocean have migrated towards the colder poles as fast as or faster than species on land.[151] Just as on land, heat waves in the ocean occur more due to climate change, with harmful effects found on a wide range of organisms such as corals, kelp, and seabirds.[152] Ocean acidification threatens damage to coral reefs, fisheries, protected species, and other natural resources of value to society.[153] Coastal ecosystems are under stress, with almost half of wetlands having disappeared as a consequence of climate change and other human impacts. Harmful algae blooms have increased due to warming, ocean deoxygenation and eutrophication.[154]
+
+Climate change impacts on the environment
+
+Ecological collapse possibilities. Bleaching has damaged the Great Barrier Reef and threatens reefs worldwide.[155]
+
+ 
+
+Extreme weather. Drought and high temperatures worsened the 2020 bushfires in Australia.[156]
+
+ 
+
+Arctic warming. Permafrost thaws undermine infrastructure and release methane in a positive feedback loop.[142]
+
+ 
+
+Habitat destruction. Many arctic animals rely on sea ice, which has been disappearing in a warming Arctic.[157]
+
+ 
+
+Pest propagation. Mild winters allow more pine beetles to survive to kill large swaths of forest.[158]
+
+Humans
+Further information: Effects of global warming on human health, Climate security, Economics of global warming, and Climate change and agriculture
+The effects of climate change on humans, mostly due to warming and shifts in precipitation, have been detected worldwide. The social impacts of climate change will be uneven across the world.[159] All regions are at risk of experiencing negative impacts,[160] with low-latitude, less developed areas facing the greatest risk.[161] Regional impacts of climate change are now observable on all continents and across ocean regions.[162] The Arctic, Africa, small islands, and Asian megadeltas are regions that are likely to be especially affected by future climate change.[163] Many risks increase with higher magnitudes of global warming.[164]
+
+Global warming of around 4 °C relative to late 20th century levels could pose a large risk to global and regional food security.[165] Crop production will probably be negatively affected in low-latitude countries, while effects at northern latitudes may be positive or negative.[166] The impact for the four major crops was negative for wheat and maize, and neutral for soy and rice, in the years 1960–2013.[167] Up to an additional 183 million people worldwide, particularly those with lower incomes, are at risk of hunger as a consequence of warming.[168] While increased CO
+2 levels help crop growth at lower temperature increases, those crops do become less nutritious.[168] Based on local and indigenous knowledge, climate change is already affecting food security in mountain regions in South America and Asia, and in various drylands, particularly in Africa.[168] Regions dependent on glacier water, regions that are already dry, and small islands are also at increased risk of water stress due to climate change.[169]
+
+In small islands and mega deltas, inundation from sea level rise is expected to threaten vital infrastructure and human settlements.[170] This could lead to statelessness for populations in island nations, such as the Maldives and Tuvalu.[171] Climate change can be a driver of migration, both within and between countries.[172]
+
+Global warming has likely already increased global economic inequality, and is projected to do so in the future.[173] The majority of severe impacts of climate change are expected in sub-Saharan Africa and South-East Asia, where existing poverty is exacerbated.[174] The World Bank estimates that global warming could drive over 120 million people into poverty by 2030.[175] Current inequalities between men and women, between rich and poor and between people of different ethnicity have been observed to worsen as a consequence of climate variability and climate change.[176] Regions may become uninhabitable, with humidity and temperatures reaching levels too high for humans to survive.[177]
+
+Generally, impacts on public health will be more negative than positive.[178] Impacts include the direct effects of extreme weather, leading to injury and loss of life;[179] and indirect effects, such as undernutrition brought on by crop failures.[180] Various infectious diseases are more easily transmitted in a warming climate, such as dengue fever, which affects children most severely, and malaria.[181] Young children are further the most vulnerable to food shortages, and together with older people to extreme heat.[182] Climate change has been linked to an increase in violent conflict by amplifying poverty and economic shocks, which are well-documented drivers of these conflicts.[183]
+
+Climate change impacts on people
+
+Environmental migration. Sparser rainfall leads to desertification that harms agriculture and can displace populations.[184]
+
+ 
+
+Agricultural changes. Droughts, rising temperatures, and extreme weather negatively impact agriculture.[185]
+
+ 
+
+Tidal flooding. Sea level rise increases flooding in low-lying coastal regions. Shown: Venice, Italy.[186]
+
+ 
+
+Storm intensification. Bangladesh after Cyclone Sidr is an example of catastrophic flooding from increased rainfall.[187]
+
+ 
+
+Heat wave intensification. Events like the June 2019 European heat wave are becoming more common.[188]
+
+Responses
+The two conventional responses are preventing as much additional warming as possible (a.k.a. "mitigation") and adapting to unavoidable warming. To increase chances of successful adaptation, as much additional warming as possible needs to be prevented. Many of the countries that have contributed least to global greenhouse gas emissions are among the most vulnerable to climate change, which raises questions about justice and fairness with regard to mitigation and adaptation.[189]
+
+A third, and highly controversial option, involves geoengineering, in which humans attempt to design climate through more intensive intentional intervention with the climate system.[190]
+
+Mitigation
+
+Since 2000, rising CO
+2 emissions in China and the rest of world have eclipsed the output of the United States and Europe.[191]
+
+Per person, the United States generates carbon dioxide at a far faster rate than other primary regions.[191]
+Main article: Climate change mitigation
+The IPCC has stressed the need to keep global warming below 1.5 °C (2.7 °F) compared to pre-industrial levels in order to avoid some irreversible impacts.[10] Climate change impacts can be mitigated by reducing greenhouse gas emissions and by enhancing the capacity of Earth's surface to absorb greenhouse gases from the atmosphere.[192] In order to limit global warming to less than 1.5 °C with a high likelihood of success, the IPCC estimates that global GHG emissions will need to be net zero by 2050,[193] or by 2070 with a 2 °C target. This will require far-reaching, systemIc changes on an unprecedented scale in energy, land, cities, transport, buildings, and industry.[194] To make progress towards that goal, the United Nations Environment Programme estimates that, within the next decade, countries will need to triple the amount of reductions they have committed to in their current Paris agreements.[195]
+
+Technologies and other methods
+Long-term scenarios all point to rapid and significant investment in renewable energy and energy efficiency as key to reducing GHG emissions.[196] These technologies include solar and wind power, bioenergy, geothermal energy, and hydroelectricity. Combined, they are capable of supplying several times the world's current energy needs.[197] Solar PV and wind, in particular, have seen substantial growth and progress over the last few years, such that they are currently among the cheapest sources of new power generation.[198] Renewables represented 75% of all new electricity generation installed in 2019, with solar and wind constituting nearly all of that amount.[199] However, fossil fuels continue to dominate world energy supplies. In 2018 fossil fuels produced 80% of the world's energy, with modern renewable sources, including solar and wind power, accounting for around 11%.[200]
+
+There are obstacles to the rapid development of renewable energy. Environmental and land use concerns are sometimes associated with large solar, wind and hydropower projects.[201] Solar and wind power also require energy storage systems and other modifications to the electricity grid to operate effectively,[196] although several storage technologies are now emerging to supplement the traditional use of pumped-storage hydropower.[202] The use of rare metals and other hazardous materials has also been raised as a concern with solar power.[203] The use of bioenergy is often not carbon neutral, and may have negative consequences for food security,[204] largely due to the amount of land required compared to other renewable energy options.[205]
+
+Where energy production or CO
+2-intensive heavy industries continue to produce waste CO
+2, the gas can be captured and stored instead of being released to the atmosphere. Although costly, [206] carbon capture and storage ("CSS") is likely necessary to meet global climate change mitigation targets negotiated in the Paris Agreement.[207] Earth's natural carbon sinks can be enhanced to sequester significantly larger amounts of CO
+2 beyond naturally occurring levels.[208] Forest preservation, reforestation and tree planting on non-forest lands are considered the most effective, although they may present food security concerns. Soil management on croplands and grasslands is another effective mitigation technique. For all these approaches there remain large scientific uncertainties with implementing them on a global scale.[209]
+
+Individuals can also take actions to reduce their carbon footprint. These include: driving an EV or other energy efficient car and reducing vehicles miles by using mass transit or cycling; adopting a plant-based diet; reducing energy use in the home; limiting consumption of goods and services; and foregoing air travel.[210]
+
+Scenarios and strategies for 2050
+
+Potential future scenarios of global greenhouse gas emissions. If all countries achieve their current pledges set within the Paris climate agreement, average warming by 2100 will go well beyond the target of the Paris Agreement to keep warming “well below 2°C”.
+Although there is no single pathway to limit global warming to 1.5 or 2 °C,[211] most scenarios and strategies see a major increase in the use of renewable energy in combination with increased energy efficiency measures to generate the needed greenhouse gas reductions.[212] Forestry and agriculture components also include steps to reduce pressures on ecosystems and enhance their carbon sequestration capabilities.[213] Scenarios that limit global warming to 1.5 °C generally project the large scale use of carbon dioxide removal methods to augment the greenhouse gas reduction approaches mentioned above.[214]
+
+Renewable energy would become the dominant form of electricity generation, rising to 85% or more by 2050 in some scenarios. The use of electricity for other needs, such as heating, would rise to the point where electricity becomes the largest form of overall energy supply by 2050.[215] Investment in coal would be eliminated and coal use nearly phased out by 2050.[216]
+
+In transport, scenarios envision sharp increases in the market share of electric vehicles, low carbon fuel substitution for other transportation modes like shipping, and changes in transportation patterns to reduce overall demand, for example increased public transport.[217] Buildings will see additional electrification with the use of technologies like heat pumps, as well as continued energy efficiency improvements achieved via low energy building codes.[218] Industrial efforts will focus on increasing the energy efficiency of production processes, such as the use of cleaner technology for cement production,[219] designing and creating less energy intensive products, increasing product lifetimes, and developing incentives to reduce product demand.[220]
+
+The agriculture and forestry sector faces a triple challenge of limiting greenhouse gas emissions, preventing further conversion of forests to agricultural land, and meeting increases in world food demand.[221] A suite of actions could reduce agriculture/forestry based greenhouse gas emissions by 66% from 2010 levels by reducing growth in demand for food and other agricultural products, increasing land productivity, protecting and restoring forests, and reducing GHG emissions from agricultural production.[222]
+
+Policies and measures
+
+Economic sectors with more greenhouse gas contributions have a greater stake in climate change policies.
+A wide range of policies, regulations and laws are being used to reduce greenhouse gases. Carbon pricing mechanisms include carbon taxes and emissions trading systems.[223] As of 2019, carbon pricing covers about 20% of global greenhouse gas emissions.[224] Renewable portfolio standards have been enacted in several countries to move utilities to increase the percentage of electricity they generate from renewable sources.[225] Phasing out of fossil fuel subsidies, currently estimated at $300 billion globally (about twice the level of renewable energy subsidies),[226] could reduce greenhouse gas emissions by 6%.[227] Subsidies could also be redirected to support the transition to clean energy.[228] More prescriptive methods that can reduce greenhouse gases include vehicle efficiency standards, renewable fuel standards, and air pollution regulations on heavy industry.[229]
+
+As the use of fossil fuels is reduced, there are Just Transition considerations involving the social and economic challenges that arise. An example is the employment of workers in the affected industries, along with the well-being of the broader communities involved.[230] Climate justice considerations, such as those facing indigenous populations in the Arctic,[231] are another important aspect of mitigation policies.[232]
+
+Adaptation
+Main article: Climate change adaptation
+Adaptation is “the process of adjustment to current or expected changes in climate and its effects”. As climate change varies across regions, adaptation does too.[233] While some adaptation responses call for trade-offs, others bring synergies and co-benefits.[234] Examples of adaptation are improved coastline protection, better disaster management, and the development of more resistant crops.[235] Increased use of air conditioning allows people to better cope with heat, but also increases energy demand.[236] Adaptation is especially important in developing countries since they are predicted to bear the brunt of the effects of global warming.[237] The capacity and potential for humans to adapt, called adaptive capacity, is unevenly distributed across different regions and populations, and developing countries generally have less capacity to adapt.[238] The public sector, private sector, and communities are all gaining experience with adaptation, and adaptation is becoming embedded within certain planning processes.[239] There are limits to adaptation and more severe climate change requires more transformative adaptation, which can be prohibitively expensive.[233]
+
+Climate engineering
+Main article: Climate engineering
+Geoengineering or climate engineering is the deliberate large-scale modification of the climate to counteract climate change.[240] Techniques fall generally into the categories of solar radiation management and carbon dioxide removal, although various other schemes have been suggested. A 2018 review paper concluded that although geo-engineering is physically possible, all the techniques are in early stages of development, carry large risks and uncertainties and raise significant ethical and legal issues.[241]
+
+Society and culture
+Political response
+
+The Climate Change Performance Index ranks countries by greenhouse gas emissions (40% of score), renewable energy (20%), energy use (20%), and climate policy (20%).
+Main article: Politics of global warming
+The geopolitics of climate change is complex and has often been framed as a prisoners' dilemma, in which all countries benefit from mitigation done by other countries, but individual countries would lose from investing in a transition to a low-carbon economy themselves. Net importers of fossil fuels win economically from transitioning, and net exporters face stranded assets: fossil fuels they cannot sell.[242] Furthermore, the benefits to individual countries in terms of public health and local environmental improvements of coal phase out exceed the costs, potentially eliminating the free-rider problem.[243] The geopolitics may be further complicated by the supply chain of rare earth metals, which are necessary to produce clean technology.[244]
+
+UN Framework Convention
+As of 2020 nearly all countries in the world are parties to the United Nations Framework Convention on Climate Change (UNFCCC).[245] The objective of the Convention is to prevent dangerous human interference with the climate system.[246] As stated in the Convention, this requires that greenhouse gas concentrations are stabilized in the atmosphere at a level where ecosystems can adapt naturally to climate change, food production is not threatened, and economic development can be sustained.[247] The Framework Convention was agreed on in 1992, but global emissions have risen since then.[58] Its yearly conferences are the stage of global negotiations.[248]
+
+This mandate was sustained in the 1997 Kyoto Protocol to the Framework Convention.[249] In ratifying the Kyoto Protocol, most developed countries accepted legally binding commitments to limit their emissions. These first-round commitments expired in 2012.[250] United States President George W. Bush rejected the treaty on the basis that "it exempts 80% of the world, including major population centres such as China and India, from compliance, and would cause serious harm to the US economy".[251] During these negotiations, the G77 (a lobbying group in the United Nations representing developing countries)[252] pushed for a mandate requiring developed countries to "[take] the lead" in reducing their emissions.[253] This was justified on the basis that the developed countries' emissions had contributed most to the accumulation of greenhouse gases in the atmosphere, per-capita emissions were still relatively low in developing countries, and the emissions of developing countries would grow to meet their development needs.[254]
+
+
+Coal, oil, and natural gas remain the primary global energy sources even as renewables have begun rapidly increasing.[255]
+In 2009 several UNFCCC Parties produced the Copenhagen Accord,[256] which has been widely portrayed as disappointing because of its low goals, leading poorer nations to reject it.[257] Nations associated with the Accord aimed to limit the future increase in global mean temperature to below 2 °C.[258] In 2015 all UN countries negotiated the Paris Agreement, which aims to keep climate change well below 2 °C and contains an aspirational goal of keeping warming under 1.5 °C. The agreement replaced the Kyoto Protocol. Unlike Kyoto, no binding emission targets are set in the Paris Agreement. Instead, the procedure of regularly setting ever more ambitious goals and reevaluating these goals every five years has been made binding.[259] The Paris Agreement reiterated that developing countries must be financially supported.[260] As of November 2019, 194 states and the European Union have signed the treaty and 186 states and the EU have ratified or acceded to the agreement.[261] In November 2019 the Trump administration notified the UN that it would withdraw the United States from the Paris Agreement in 2020.[262]
+
+Other policy
+In 2019, the British Parliament became the first national government in the world to officially declare a climate emergency.[263] Other countries and jurisdictions followed.[264] In November 2019 the European Parliament declared a "climate and environmental emergency",[265] and the European Commission presented its European Green Deal with which they hope to make the EU carbon-neutral in 2050.[266]
+
+While the ozone layer and climate change are considered separate problems, the solution to the former has significantly mitigated global warming. The estimated mitigation of the Montreal Protocol, an international agreement to stop emitting ozone-depleting gases, is estimated to have been more effective than the Kyoto Protocol, which was specifically designed to curb greenhouse gas emissions.[267] It has been argued that the Montreal Protocol may have done more than any other measure, as of 2017, to mitigate climate change as those substances were also powerful greenhouse gases.[268]
+
+Scientific consensus
+Main article: Scientific consensus on climate change
+
+While there is little debate that excess carbon dioxide in the industrial era has mostly come from burning fossil fuels, the future strength of land and ocean carbon sinks is an area of study.[269]
+In the scientific literature, there is an overwhelming consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.[270] No scientific body of national or international standing disagrees with this view.[271] Scientific discussion takes place in journal articles that are peer-reviewed, which scientists subject to assessment every couple of years in the Intergovernmental Panel on Climate Change reports.[272] In 2013, the IPCC Fifth Assessment Report stated that "is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century".[273] Their 2018 report expressed the scientific consensus as: "human influence on climate has been the dominant cause of observed warming since the mid-20th century".[274]
+
+Consensus has further developed that some form of action should be taken to protect people against the impacts of climate change, and national science academies have called on world leaders to cut global emissions.[275] In 2017, in the second warning to humanity, 15,364 scientists from 184 countries stated that "the current trajectory of potentially catastrophic climate change due to rising greenhouse gases from burning fossil fuels, deforestation, and agricultural production – particularly from farming ruminants for meat consumption" is "especially troubling".[276] In 2019, a group of more than 11,000 scientists from 153 countries named climate change an "emergency" that would lead to "untold human suffering" if no big shifts in action takes place.[277] The emergency declaration emphasized that economic growth and population growth "are among the most important drivers of increases in CO
+2 emissions from fossil fuel combustion" and that "we need bold and drastic transformations regarding economic and population policies".[278]
+
+Public debate
+Further information: Climate communication, Media coverage of climate change, and Public opinion on climate change
+The global warming problem came to international public attention in the late 1980s.[279] Due to confusing media coverage in the early 1990s, issues such as ozone depletion and climate change were often mixed up, affecting public understanding of these issues.[280] Although there are a few areas of linkage, the relationship between the two is weak.[281]
+
+Significant regional differences exist in how concerned people are about climate change and how much they understand the issue.[282] In 2010, just a little over half the US population viewed it as a serious concern for either themselves or their families, while 73% of people in Latin America and 74% in developed Asia felt this way.[283] Similarly, in 2015 a median of 54% of respondents considered it "a very serious problem", but Americans and Chinese (whose economies are responsible for the greatest annual CO2 emissions) were among the least concerned.[282] Worldwide in 2011, people were more likely to attribute global warming to human activities than to natural causes, except in the US where nearly half of the population attributed global warming to natural causes.[284] Public reactions to global warming and concern about its effects have been increasing, with many perceiving it as the worst global threat.[285] In a 2019 CBS poll, 64% of the US population said that climate change is a "crisis" or a "serious problem", with 44% saying human activity was a significant contributor.[286]
+
+Denial and misinformation
+See also: Fossil fuels lobby and Climate change denial
+
+One deceptive approach is cherry picking data from short time periods to falsely assert that global average temperatures are not rising. Blue trendlines show short-term countertrends that mask longer-term warming trends (red trendlines). Blue dots show the so-called global warming hiatus.[287]
+Public debate about climate change has been strongly affected by climate change denial and misinformation, which originated in the United States and has since spread to other countries, particularly Canada and Australia. The actors behind climate change denial form a well-funded and relatively coordinated coalition of fossil fuel companies, industry groups, conservative think tanks, and contrarian scientists.[288] Like the tobacco industry before, the main strategy of these groups has been to manufacture doubt about scientific data and results.[289] Many who deny, dismiss, or hold unwarranted doubt about the scientific consensus on anthropogenic global warming are labelled as "climate change skeptics", which several scientists have noted is a misnomer.[290]
+
+There are different variants of climate denial: some deny that warming takes place at all, some acknowledge warming but attribute it to natural influences, and some minimize the negative impacts of climate change.[291] Manufacturing uncertainty about the science later developed into a manufacturing of controversy: creating the belief that there remains significant uncertainty about climate change within the scientific community in order to delay policy changes.[292] Strategies to promote these ideas include a criticism of scientific institutions,[293] and questioning the motives of individual scientists.[291] An "echo chamber" of climate-denying blogs and media has further fomented misunderstanding of global warming.[294]
+
+Protest and litigation
+Main article: Climate movement
+Protests seeking more ambitious climate action increased in the 2010s in the form of fossil fuel divestment,[295] and worldwide demonstrations.[296] In particular, youth across the globe protested by skipping school, inspired by Swedish teenager Greta Thunberg in the school strike for climate.[297] Mass civil disobedience actions by Extinction Rebellion and Ende Gelände have ended in police intervention and large-scale arrests.[298] Litigation is increasingly used as a tool to strengthen climate action, with governments being the biggest target of lawsuits demanding that they become ambitious on climate action or enforce existing laws. Cases against fossil-fuel companies, from activists, shareholders and investors, generally seek compensation for loss and damage.[299]
+
+Discovery
+
+Tyndall's sensitive ratio spectrophotometer (drawing published in 1861) measured the extent to which infrared radiation was absorbed and emitted by various gases filling its central tube.
+Main article: History of climate change science
+In 1681 Edme Mariotte noted that glass, though transparent to sunlight, obstructs radiant heat.[300] Around 1774 Horace Bénédict de Saussure showed that non-luminous warm objects emit infrared heat, and used a glass-topped insulated box to trap and measure heat from sunlight.[301] In 1824 Joseph Fourier proposed by analogy a version of the greenhouse effect; transparent atmosphere lets through visible light, which warms the surface. The warmed surface emits infrared radiation, but the atmosphere is relatively opaque to infrared and slows the emission of energy, warming the planet.[302] Starting in 1859,[303] John Tyndall established that nitrogen and oxygen (99% of dry air) are transparent to infrared, but water vapour and traces of some gases (significantly methane and carbon dioxide) both absorb infrared and, when warmed, emit infrared radiation. Changing concentrations of these gases could have caused "all the mutations of climate which the researches of geologists reveal" including ice ages.[304]
+
+Svante Arrhenius noted that water vapour in air continuously varied, but carbon dioxide (CO
+2) was determined by long term geological processes. At the end of an ice age, warming from increased CO
+2 would increase the amount of water vapour, amplifying its effect in a feedback process. In 1896, he published the first climate model of its kind, showing that halving of CO
+2 could have produced the drop in temperature initiating the ice age. Arrhenius calculated the temperature increase expected from doubling CO
+2 to be around 5–6 °C (9.0–10.8 °F).[305] Other scientists were initially sceptical and believed the greenhouse effect to be saturated so that adding more CO
+2 would make no difference. Experts thought climate would be self-regulating.[306] From 1938 Guy Stewart Callendar published evidence that climate was warming and CO
+2 levels increasing,[307] but his calculations met the same objections.[306]
+
+Early calculations treated the atmosphere as a single layer: Gilbert Plass used digital computers to model the different layers and found added CO
+2 would cause warming. Hans Suess found evidence CO
+2 levels had been rising, Roger Revelle showed the oceans would not absorb the increase, and together they helped Charles Keeling to begin a record of continued increase, the Keeling Curve.[306] Scientists alerted the public,[308] and the dangers were highlighted at James Hansen's 1988 Congressional testimony.[309] The Intergovernmental Panel on Climate Change, set up in 1988 to provide formal advice to the world's governments, spurred interdisciplinary research.[310]
+
+Terminology
+Before the 1980s, when it was unclear whether warming by greenhouse gases would dominate aerosol-induced cooling, scientist often used the term inadvertent climate modification to refer to humankind's impact on the climate. With increasing evidence of warming, the terms global warming and climate change were introduced, with the former referring only to increasing surface warming, and the latter to the full effect of greenhouse gases on climate.[311] Global warming became the dominant popular term after NASA climate scientist James Hansen used it in his 1988 testimony in the U.S. Senate.[309] In the 2000s, the term climate change increased in popularity.[312] In lay usage, global warming usually refers to human-induced warming of the Earth system, whereas climate change can refer to natural as well as anthropogenic change.[313] The two terms are often used interchangeably.[314]
+
+Various scientists, politicians and news media have adopted the terms climate crisis or a climate emergency to talk about climate change, while using global heating instead of global warming.[315] The policy editor-in-chief of The Guardian explained why they included this language in their editorial guidelines: "We want to ensure that we are being scientifically precise, while also communicating clearly with readers on this very important issue".[316] Oxford Dictionary chose climate emergency as the word of the year 2019 and defines the term as "a situation in which urgent action is required to reduce or halt climate change and avoid potentially irreversible environmental damage resulting from it".[317]
